@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TeamFlow — Dynamic Growth Model",
-  description: "Cash flow splits, equity tracking, and deal pipeline for your team",
+  title: "TeamFlow — Equity & Deal Tracker",
+  description: "Track deals, split revenue 50/40/10, and watch equity grow with your team",
 };
 
 export default function RootLayout({
