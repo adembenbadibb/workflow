@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact",
+    "login": "Connexion"
+  },
+  "hero": {
+    "title": "Des Solutions Techniques Qui Propulsent Votre Business",
+    "subtitle": "Développement web, infrastructure réseau et systèmes intelligents — livrés par une équipe qui performe.",
+    "cta": "Contactez-Nous",
+    "services_cta": "Nos Services"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Nous livrons des solutions techniques complètes adaptées à vos besoins.",
+    "web": {
+      "title": "Développement Web",
+      "description": "Sites web personnalisés, applications web et plateformes construits avec des technologies modernes. Des landing pages aux systèmes complexes."
+    },
+    "pointage": {
+      "title": "Systèmes de Pointage",
+      "description": "Solutions intelligentes de pointage et de suivi du temps pour les entreprises. Intégration matérielle, configuration logicielle et support continu."
+    },
+    "network": {
+      "title": "Installation Réseau",
+      "description": "Installation complète d'infrastructure réseau — câblage, configuration, sécurité et maintenance pour bureaux et établissements."
+    }
+  },
+  "about": {
+    "title": "À propos de VOLTIX Systems",
+    "subtitle": "Une équipe technique collaborative fondée sur la contribution, la transparence et la croissance à long terme.",
+    "description": "VOLTIX Systems est un collectif de professionnels qualifiés couvrant le développement logiciel, l'infrastructure réseau, l'installation terrain et la conception technique. Nous travaillons en tant que partenaires — pas employés — combinant nos forces pour livrer des solutions de qualité.",
+    "vision_title": "Notre Vision",
+    "vision": "Évoluer d'une équipe de services vers un groupe technique et d'ingénierie solide — créer des produits, posséder des technologies et résoudre de vrais problèmes à grande échelle.",
+    "values_title": "Nos Valeurs",
+    "value_1": "La contribution définit la récompense",
+    "value_2": "Transparence en tout",
+    "value_3": "Qualité plutôt que raccourcis",
+    "value_4": "Vision à long terme"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Vous avez un projet en tête ? Parlons-en.",
+    "name": "Votre Nom",
+    "email": "Votre Email",
+    "message": "Votre Message",
+    "send": "Envoyer le Message",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé avec succès ! Nous vous répondrons bientôt.",
+    "error": "Échec de l'envoi du message. Veuillez réessayer."
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "tagline": "Des solutions techniques qui livrent."
+  },
+  "login": {
+    "title": "Connexion",
+    "subtitle": "Entrez vos identifiants pour accéder à la plateforme",
+    "email": "Adresse email",
+    "password": "Mot de passe",
+    "sign_in": "Se connecter",
+    "signing_in": "Connexion en cours...",
+    "error": "Email ou mot de passe invalide. Veuillez réessayer.",
+    "back": "Retour au site"
+  },
+  "dashboard": {
+    "overview": "Aperçu",
+    "projects": "Projets",
+    "members": "Membres",
+    "earnings": "Revenus",
+    "savings": "Épargne",
+    "contacts": "Contacts",
+    "logout": "Déconnexion",
+    "add_project": "Ajouter un Projet",
+    "total_projects": "Total Projets",
+    "active_projects": "Projets Actifs",
+    "total_earnings": "Total Revenus",
+    "total_savings": "Total Épargne",
+    "take_home": "Net",
+    "my_savings": "Mon Épargne",
+    "gross": "Brut",
+    "project_name": "Nom du Projet",
+    "client": "Client",
+    "status": "Statut",
+    "revenue": "Revenu",
+    "actions": "Actions",
+    "no_projects": "Aucun projet pour le moment",
+    "no_earnings": "Aucun revenu enregistré",
+    "member_name": "Nom",
+    "member_email": "Email",
+    "member_role": "Rôle",
+    "savings_amount": "Montant Épargne",
+    "savings_percentage": "% du Total",
+    "invite_member": "Inviter un Membre",
+    "promote": "Promouvoir en Fondateur",
+    "remove": "Retirer",
+    "enter_earnings": "Saisir les Revenus",
+    "total_capital": "Capital Total",
+    "active_members": "Membres Actifs"
+  }
+}

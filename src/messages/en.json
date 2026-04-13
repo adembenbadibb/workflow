@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "Technical Solutions That Power Your Business",
+    "subtitle": "Web development, network infrastructure, and smart systems — built by a team that delivers.",
+    "cta": "Get in Touch",
+    "services_cta": "Our Services"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We deliver end-to-end technical solutions tailored to your needs.",
+    "web": {
+      "title": "Web Development",
+      "description": "Custom websites, web applications, and platforms built with modern technologies. From landing pages to complex systems."
+    },
+    "pointage": {
+      "title": "Attendance Systems",
+      "description": "Smart attendance and time-tracking solutions for businesses. Hardware integration, software setup, and ongoing support."
+    },
+    "network": {
+      "title": "Network Installation",
+      "description": "Complete network infrastructure setup — cabling, configuration, security, and maintenance for offices and facilities."
+    }
+  },
+  "about": {
+    "title": "About VOLTIX Systems",
+    "subtitle": "A collaborative technical team built on contribution, transparency, and long-term growth.",
+    "description": "VOLTIX Systems is a collective of skilled professionals covering software development, network infrastructure, field installation, and technical design. We work as partners — not employees — combining our strengths to deliver quality solutions.",
+    "vision_title": "Our Vision",
+    "vision": "To evolve from a service team into a strong technical and engineering group — building products, owning technologies, and solving real problems at scale.",
+    "values_title": "Our Values",
+    "value_1": "Contribution defines reward",
+    "value_2": "Transparency in everything",
+    "value_3": "Quality over shortcuts",
+    "value_4": "Long-term thinking"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have a project in mind? Let's talk.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully! We'll get back to you soon.",
+    "error": "Failed to send message. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Technical solutions that deliver."
+  },
+  "login": {
+    "title": "Sign In",
+    "subtitle": "Enter your credentials to access the platform",
+    "email": "Email address",
+    "password": "Password",
+    "sign_in": "Sign In",
+    "signing_in": "Signing in...",
+    "error": "Invalid email or password. Please try again.",
+    "back": "Back to site"
+  },
+  "dashboard": {
+    "overview": "Overview",
+    "projects": "Projects",
+    "members": "Members",
+    "earnings": "Earnings",
+    "savings": "Savings",
+    "contacts": "Contacts",
+    "logout": "Logout",
+    "add_project": "Add Project",
+    "total_projects": "Total Projects",
+    "active_projects": "Active Projects",
+    "total_earnings": "Total Earnings",
+    "total_savings": "Total Savings",
+    "take_home": "Take Home",
+    "my_savings": "My Savings",
+    "gross": "Gross",
+    "project_name": "Project Name",
+    "client": "Client",
+    "status": "Status",
+    "revenue": "Revenue",
+    "actions": "Actions",
+    "no_projects": "No projects yet",
+    "no_earnings": "No earnings recorded yet",
+    "member_name": "Name",
+    "member_email": "Email",
+    "member_role": "Role",
+    "savings_amount": "Savings Amount",
+    "savings_percentage": "% of Total",
+    "invite_member": "Invite Member",
+    "promote": "Promote to Founder",
+    "remove": "Remove",
+    "enter_earnings": "Enter Earnings",
+    "total_capital": "Total Capital",
+    "active_members": "Active Members"
+  }
+}
