@@ -2,58 +2,116 @@
   "nav": {
     "home": "Home",
     "services": "Services",
-    "about": "About",
+    "work": "Work",
+    "about": "Team",
     "contact": "Contact",
-    "login": "Login"
+    "login": "Login",
+    "cta": "Start a Project"
   },
   "hero": {
-    "title": "Technical Solutions That Power Your Business",
-    "subtitle": "Web development, network infrastructure, and smart systems — built by a team that delivers.",
-    "cta": "Get in Touch",
-    "services_cta": "Our Services"
+    "badge": "Web Design · Brand Identity · Creative Agency",
+    "title_pre": "We build brands &",
+    "title_highlight": "digital experiences",
+    "title_post": "that convert.",
+    "subtitle": "VOLTIX is a creative studio crafting standout websites, platforms and visual identities for companies, stores and services. From the first sketch to launch — we make you unforgettable.",
+    "cta": "Start Your Project",
+    "services_cta": "Explore Services",
+    "stat_projects": "Projects Crafted",
+    "stat_members": "Specialists",
+    "stat_passion": "Passion Driven"
+  },
+  "clients": {
+    "title": "Built for ambitious companies, stores & services"
   },
   "services": {
-    "title": "Our Services",
-    "subtitle": "We deliver end-to-end technical solutions tailored to your needs.",
+    "title": "What We Do",
+    "subtitle": "Everything you need to look professional and grow online — under one roof.",
+    "learn_more": "Learn more",
     "web": {
-      "title": "Web Development",
-      "description": "Custom websites, web applications, and platforms built with modern technologies. From landing pages to complex systems."
+      "title": "Web & Platform Development",
+      "description": "Fast, responsive websites and custom platforms built with modern tech. Landing pages, e-commerce stores, dashboards and web apps that work flawlessly on every device."
     },
-    "pointage": {
-      "title": "Attendance Systems",
-      "description": "Smart attendance and time-tracking solutions for businesses. Hardware integration, software setup, and ongoing support."
+    "brand": {
+      "title": "Brand Identity & Signature",
+      "description": "Logos, visual identity and brand signatures that make you instantly recognizable. We craft the personality that sets your business apart from the crowd."
     },
-    "network": {
-      "title": "Network Installation",
-      "description": "Complete network infrastructure setup — cabling, configuration, security, and maintenance for offices and facilities."
+    "design": {
+      "title": "Graphic & Visual Design",
+      "description": "Flyers, banners, social media posts and print-ready visuals. Clean, eye-catching designs that communicate your message and turn viewers into customers."
+    },
+    "marketing": {
+      "title": "Digital Marketing",
+      "description": "Social media strategy, content and campaigns that get you noticed. We help your brand reach the right audience and grow a real following."
     }
   },
+  "process": {
+    "title": "How We Work",
+    "subtitle": "A simple, transparent process — from idea to launch.",
+    "step1_title": "Discover",
+    "step1_desc": "We listen to your goals, study your market and define exactly what success looks like.",
+    "step2_title": "Design",
+    "step2_desc": "We craft the identity, layout and visuals — sharing previews until it feels right.",
+    "step3_title": "Build",
+    "step3_desc": "Our developers turn the design into a fast, secure and responsive product.",
+    "step4_title": "Launch",
+    "step4_desc": "We ship it, fine-tune the details and support you as you grow."
+  },
+  "why": {
+    "title": "Why Choose VOLTIX",
+    "subtitle": "A young, hungry team that treats your project like our own.",
+    "point1_title": "Design that sells",
+    "point1_desc": "Every pixel has a purpose. We design to impress and to convert.",
+    "point2_title": "Modern technology",
+    "point2_desc": "We build with the latest, fastest tools — no outdated templates.",
+    "point3_title": "One team, all-in-one",
+    "point3_desc": "Developers, designers and marketers working together for you.",
+    "point4_title": "Fair & transparent",
+    "point4_desc": "Clear pricing, honest timelines and constant communication."
+  },
+  "team": {
+    "title": "Meet the Team",
+    "subtitle": "Seven specialists, one mission: make your brand shine.",
+    "role_dev": "Developer",
+    "role_finance": "Financial Management",
+    "role_marketing": "Marketing",
+    "role_design": "Design"
+  },
   "about": {
-    "title": "About VOLTIX Systems",
-    "subtitle": "A collaborative technical team built on contribution, transparency, and long-term growth.",
-    "description": "VOLTIX Systems is a collective of skilled professionals covering software development, network infrastructure, field installation, and technical design. We work as partners — not employees — combining our strengths to deliver quality solutions.",
+    "title": "We are VOLTIX",
+    "subtitle": "A creative agency born from a team of university students with a shared obsession for great design and clean code.",
+    "description": "VOLTIX started as a group of seven friends at university who wanted to do more than study — we wanted to build. Today we craft websites, platforms and visual identities for companies, stores and services. We combine development, design, marketing and solid management into one tight-knit studio.",
+    "mission_title": "Our Mission",
+    "mission": "To give every business — big or small — a digital presence they can be proud of. Beautiful design, powerful technology, and a brand that people remember.",
     "vision_title": "Our Vision",
-    "vision": "To evolve from a service team into a strong technical and engineering group — building products, owning technologies, and solving real problems at scale.",
-    "values_title": "Our Values",
-    "value_1": "Contribution defines reward",
+    "vision": "To grow from a student studio into a leading creative agency — building products, owning technologies and solving real problems at scale.",
+    "values_title": "What Drives Us",
+    "value_1": "Quality over shortcuts",
     "value_2": "Transparency in everything",
-    "value_3": "Quality over shortcuts",
+    "value_3": "Design with purpose",
     "value_4": "Long-term thinking"
   },
   "contact": {
-    "title": "Contact Us",
-    "subtitle": "Have a project in mind? Let's talk.",
+    "title": "Let's Build Something Great",
+    "subtitle": "Tell us about your project — we usually reply within 24 hours.",
     "name": "Your Name",
     "email": "Your Email",
-    "message": "Your Message",
+    "message": "Tell us about your project",
     "send": "Send Message",
     "sending": "Sending...",
     "success": "Message sent successfully! We'll get back to you soon.",
-    "error": "Failed to send message. Please try again."
+    "error": "Failed to send message. Please try again.",
+    "info_title": "Prefer to reach out directly?",
+    "email_label": "Email",
+    "location_label": "Location",
+    "location_value": "Algeria",
+    "follow": "Follow us"
   },
   "footer": {
+    "tagline": "A creative studio building brands and digital experiences.",
     "rights": "All rights reserved.",
-    "tagline": "Technical solutions that deliver."
+    "services_title": "Services",
+    "company_title": "Company",
+    "connect_title": "Connect"
   },
   "login": {
     "title": "Sign In",

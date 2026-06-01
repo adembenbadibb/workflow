@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VOLTIX Systems",
-  description: "Technical solutions that power your business — web development, network infrastructure, and smart systems.",
+  title: "VOLTIX — Web Design, Brand Identity & Creative Agency",
+  description: "VOLTIX is a creative studio crafting standout websites, platforms and visual identities for companies, stores and services. Web development, branding, design and digital marketing.",
 };
 
 export default function RootLayout({

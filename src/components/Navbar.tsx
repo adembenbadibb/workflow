@@ -22,14 +22,16 @@ export default function Navbar() {
   ];
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
+    <nav className="fixed top-0 left-0 right-0 z-50 bg-background/70 backdrop-blur-xl border-b border-border">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2">
-            <Zap className="w-7 h-7 text-primary" />
+          <Link href="/" className="flex items-center gap-2.5 group">
+            <span className="relative flex items-center justify-center w-9 h-9 rounded-xl bg-gradient-to-br from-primary to-violet shadow-lg shadow-primary/20">
+              <Zap className="w-5 h-5 text-white" fill="currentColor" />
+            </span>
             <span className="text-xl font-bold tracking-tight">
-              VOLTI<span className="text-primary">X</span>
+              VOLTI<span className="gradient-text">X</span>
             </span>
           </Link>
 
@@ -39,8 +41,8 @@ export default function Navbar() {
               <Link
                 key={link.href}
                 href={link.href}
-                className={`text-sm font-medium transition-colors hover:text-primary ${
-                  pathname === link.href ? 'text-primary' : 'text-muted'
+                className={`text-sm font-medium transition-colors hover:text-foreground ${
+                  pathname === link.href ? 'text-foreground' : 'text-muted'
                 }`}
               >
                 {link.label}
@@ -49,7 +51,7 @@ export default function Navbar() {
           </div>
 
           {/* Right side */}
-          <div className="hidden md:flex items-center gap-4">
+          <div className="hidden md:flex items-center gap-3">
             <Link
               href={pathname}
               locale={otherLocale}
@@ -59,10 +61,16 @@ export default function Navbar() {
             </Link>
             <a
               href={`/${locale}/login`}
-              className="text-sm font-medium px-4 py-2 rounded-lg bg-primary/10 text-primary hover:bg-primary/20 transition-colors"
+              className="text-sm font-medium px-3 py-2 rounded-lg text-muted hover:text-foreground transition-colors"
             >
               {t('login')}
             </a>
+            <Link
+              href="/contact"
+              className="text-sm font-semibold px-4 py-2 rounded-lg bg-primary text-white hover:bg-primary-hover transition-colors"
+            >
+              {t('cta')}
+            </Link>
           </div>
 
           {/* Mobile menu button */}
@@ -91,7 +99,7 @@ export default function Navbar() {
                 {link.label}
               </Link>
             ))}
-            <div className="flex items-center gap-4 pt-2 border-t border-border">
+            <div className="flex items-center gap-4 pt-3 border-t border-border">
               <Link
                 href={pathname}
                 locale={otherLocale}
@@ -101,10 +109,17 @@ export default function Navbar() {
               </Link>
               <a
                 href={`/${locale}/login`}
-                className="text-sm font-medium px-4 py-2 rounded-lg bg-primary/10 text-primary"
+                className="text-sm font-medium text-muted"
               >
                 {t('login')}
               </a>
+              <Link
+                href="/contact"
+                onClick={() => setMobileOpen(false)}
+                className="text-sm font-semibold px-4 py-2 rounded-lg bg-primary text-white"
+              >
+                {t('cta')}
+              </Link>
             </div>
           </div>
         </div>

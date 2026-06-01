@@ -2,58 +2,116 @@
   "nav": {
     "home": "Accueil",
     "services": "Services",
-    "about": "À propos",
+    "work": "Réalisations",
+    "about": "Équipe",
     "contact": "Contact",
-    "login": "Connexion"
+    "login": "Connexion",
+    "cta": "Démarrer un projet"
   },
   "hero": {
-    "title": "Des Solutions Techniques Qui Propulsent Votre Business",
-    "subtitle": "Développement web, infrastructure réseau et systèmes intelligents — livrés par une équipe qui performe.",
-    "cta": "Contactez-Nous",
-    "services_cta": "Nos Services"
+    "badge": "Design Web · Identité de Marque · Agence Créative",
+    "title_pre": "Nous créons des marques &",
+    "title_highlight": "des expériences digitales",
+    "title_post": "qui convertissent.",
+    "subtitle": "VOLTIX est un studio créatif qui conçoit des sites, plateformes et identités visuelles remarquables pour les entreprises, boutiques et services. Du premier croquis au lancement — on vous rend inoubliable.",
+    "cta": "Démarrer votre projet",
+    "services_cta": "Voir les services",
+    "stat_projects": "Projets réalisés",
+    "stat_members": "Spécialistes",
+    "stat_passion": "Animés par la passion"
+  },
+  "clients": {
+    "title": "Conçu pour les entreprises, boutiques et services ambitieux"
   },
   "services": {
-    "title": "Nos Services",
-    "subtitle": "Nous livrons des solutions techniques complètes adaptées à vos besoins.",
+    "title": "Ce que nous faisons",
+    "subtitle": "Tout ce qu'il vous faut pour paraître professionnel et grandir en ligne — au même endroit.",
+    "learn_more": "En savoir plus",
     "web": {
-      "title": "Développement Web",
-      "description": "Sites web personnalisés, applications web et plateformes construits avec des technologies modernes. Des landing pages aux systèmes complexes."
+      "title": "Développement Web & Plateformes",
+      "description": "Sites web rapides et responsives, plateformes sur mesure construits avec des technologies modernes. Landing pages, boutiques e-commerce, tableaux de bord et applications qui fonctionnent parfaitement partout."
     },
-    "pointage": {
-      "title": "Systèmes de Pointage",
-      "description": "Solutions intelligentes de pointage et de suivi du temps pour les entreprises. Intégration matérielle, configuration logicielle et support continu."
+    "brand": {
+      "title": "Identité de Marque & Signature",
+      "description": "Logos, identité visuelle et signatures de marque qui vous rendent instantanément reconnaissable. Nous créons la personnalité qui vous distingue."
     },
-    "network": {
-      "title": "Installation Réseau",
-      "description": "Installation complète d'infrastructure réseau — câblage, configuration, sécurité et maintenance pour bureaux et établissements."
+    "design": {
+      "title": "Design Graphique & Visuel",
+      "description": "Flyers, bannières, publications réseaux sociaux et visuels prêts à imprimer. Des designs propres et accrocheurs qui transforment les visiteurs en clients."
+    },
+    "marketing": {
+      "title": "Marketing Digital",
+      "description": "Stratégie réseaux sociaux, contenu et campagnes qui vous font remarquer. On aide votre marque à toucher la bonne audience et à grandir."
     }
   },
+  "process": {
+    "title": "Notre Méthode",
+    "subtitle": "Un processus simple et transparent — de l'idée au lancement.",
+    "step1_title": "Découvrir",
+    "step1_desc": "Nous écoutons vos objectifs, étudions votre marché et définissons à quoi ressemble le succès.",
+    "step2_title": "Concevoir",
+    "step2_desc": "Nous créons l'identité, la mise en page et les visuels — avec des aperçus jusqu'à ce que ce soit parfait.",
+    "step3_title": "Développer",
+    "step3_desc": "Nos développeurs transforment le design en un produit rapide, sécurisé et responsive.",
+    "step4_title": "Lancer",
+    "step4_desc": "On met en ligne, on peaufine les détails et on vous accompagne dans votre croissance."
+  },
+  "why": {
+    "title": "Pourquoi choisir VOLTIX",
+    "subtitle": "Une équipe jeune et motivée qui traite votre projet comme le sien.",
+    "point1_title": "Un design qui vend",
+    "point1_desc": "Chaque pixel a un but. On conçoit pour impressionner et convertir.",
+    "point2_title": "Technologie moderne",
+    "point2_desc": "On construit avec les outils les plus récents et rapides — jamais de modèles dépassés.",
+    "point3_title": "Une équipe tout-en-un",
+    "point3_desc": "Développeurs, designers et marketeurs travaillant ensemble pour vous.",
+    "point4_title": "Juste & transparent",
+    "point4_desc": "Tarifs clairs, délais honnêtes et communication constante."
+  },
+  "team": {
+    "title": "L'Équipe",
+    "subtitle": "Sept spécialistes, une mission : faire briller votre marque.",
+    "role_dev": "Développeur",
+    "role_finance": "Gestion Financière",
+    "role_marketing": "Marketing",
+    "role_design": "Design"
+  },
   "about": {
-    "title": "À propos de VOLTIX Systems",
-    "subtitle": "Une équipe technique collaborative fondée sur la contribution, la transparence et la croissance à long terme.",
-    "description": "VOLTIX Systems est un collectif de professionnels qualifiés couvrant le développement logiciel, l'infrastructure réseau, l'installation terrain et la conception technique. Nous travaillons en tant que partenaires — pas employés — combinant nos forces pour livrer des solutions de qualité.",
+    "title": "Nous sommes VOLTIX",
+    "subtitle": "Une agence créative née d'une équipe d'étudiants universitaires passionnés par le beau design et le code propre.",
+    "description": "VOLTIX a commencé comme un groupe de sept amis à l'université qui voulaient faire plus qu'étudier — nous voulions créer. Aujourd'hui, nous concevons des sites, plateformes et identités visuelles pour les entreprises, boutiques et services. Nous combinons développement, design, marketing et gestion solide dans un seul studio soudé.",
+    "mission_title": "Notre Mission",
+    "mission": "Donner à chaque entreprise — grande ou petite — une présence digitale dont elle peut être fière. Un beau design, une technologie puissante et une marque qu'on retient.",
     "vision_title": "Notre Vision",
-    "vision": "Évoluer d'une équipe de services vers un groupe technique et d'ingénierie solide — créer des produits, posséder des technologies et résoudre de vrais problèmes à grande échelle.",
-    "values_title": "Nos Valeurs",
-    "value_1": "La contribution définit la récompense",
+    "vision": "Passer d'un studio étudiant à une agence créative de référence — créer des produits, posséder des technologies et résoudre de vrais problèmes à grande échelle.",
+    "values_title": "Ce qui nous anime",
+    "value_1": "Qualité plutôt que raccourcis",
     "value_2": "Transparence en tout",
-    "value_3": "Qualité plutôt que raccourcis",
+    "value_3": "Un design avec un but",
     "value_4": "Vision à long terme"
   },
   "contact": {
-    "title": "Contactez-Nous",
-    "subtitle": "Vous avez un projet en tête ? Parlons-en.",
+    "title": "Créons quelque chose de grand",
+    "subtitle": "Parlez-nous de votre projet — nous répondons généralement sous 24 heures.",
     "name": "Votre Nom",
     "email": "Votre Email",
-    "message": "Votre Message",
+    "message": "Parlez-nous de votre projet",
     "send": "Envoyer le Message",
     "sending": "Envoi en cours...",
     "success": "Message envoyé avec succès ! Nous vous répondrons bientôt.",
-    "error": "Échec de l'envoi du message. Veuillez réessayer."
+    "error": "Échec de l'envoi du message. Veuillez réessayer.",
+    "info_title": "Vous préférez nous contacter directement ?",
+    "email_label": "Email",
+    "location_label": "Localisation",
+    "location_value": "Algérie",
+    "follow": "Suivez-nous"
   },
   "footer": {
+    "tagline": "Un studio créatif qui bâtit des marques et des expériences digitales.",
     "rights": "Tous droits réservés.",
-    "tagline": "Des solutions techniques qui livrent."
+    "services_title": "Services",
+    "company_title": "Entreprise",
+    "connect_title": "Suivez-nous"
   },
   "login": {
     "title": "Connexion",
